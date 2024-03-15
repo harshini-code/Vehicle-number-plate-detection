@@ -2,5 +2,6 @@ This project presents an innovative system for the automated detection of vehicl
 Vehicle number plate recognition plays a significant role in many areas
 
 To deploy this project run
+
 Google collab/Visual studio code to run the project
 
